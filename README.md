@@ -57,7 +57,6 @@ It allows multiple **calendar owners** to set their daily availability and lets 
 - Spring Boot (Web, Validation)
 - Springdoc OpenAPI for Swagger
 - JUnit 5 + AssertJ + Hamcrest for testing
-- In-memory data using repository pattern (no external DB)
 - Maven for build
 
 ---
@@ -74,7 +73,7 @@ It allows multiple **calendar owners** to set their daily availability and lets 
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-repo/calendar-booking-system.git
+git clone https://github.com/Harshit335/calendar-booking-system.git
 
 cd calendar-booking-system
 
